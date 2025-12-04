@@ -1,0 +1,5 @@
+C:/Users/sodae/source/repos/KeysTester/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/sodae/source/repos/KeysTester/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sodae/source/repos/KeysTester/out/build/x64-debug/KeysTester/CMakeFiles/KeysTester.dir
+C:/Users/sodae/source/repos/KeysTester/out/build/x64-debug/KeysTester/CMakeFiles/edit_cache.dir
+C:/Users/sodae/source/repos/KeysTester/out/build/x64-debug/KeysTester/CMakeFiles/rebuild_cache.dir
